@@ -1,55 +1,54 @@
-## Privacy Policy for SOUN Bot
+# Privacy Policy for MSQBOT
 
-Our Discord bot, SOUN, is designed to provide users with a better experience on Discord servers. This privacy policy explains how and what data is collected by our bot, how it is used, and how it is protected.
+MSQBOT is designed to enhance the user experience on Discord servers. This privacy policy explains what data is collected, how it is used, and how it is protected.
 
-At SOUN, we understand that you care about your personal information and we take your privacy seriously. Please read the following to learn more about our Privacy Policy.
+At MSQBOT, we respect your privacy and understand the importance of your personal information. We do not share or sell your data for advertising or marketing purposes, and we do not share your information with third parties except as required by law.
 
-We do not share or sell your personal information for advertising or marketing purposes. We also do not share your personally identifiable information with third parties except as required by law.
+## Information Collected by MSQBOT
 
-### Information Collected by SOUN Bot
+To ensure the proper functioning of MSQBOT, the following information is stored:
 
-The following information is saved for the proper functioning of SOUN Bot:
+- **User IDs:** To associate you and your server members with registered configurations.
+- **Server IDs:** Stored in some cases for settings such as server moderation and interaction levels.
+- **Channel IDs:** Used only for specific command configurations and custom settings.
 
-- **User IDs:** To associate you and your server members with your registered configurations.
-- **Server IDs:** Stored only in some cases for information such as server configuration for moderation and leveling purposes.
-- **Channel IDs:** For channel-specific command overwrites and configurations.
+## Commands and Data Handling
 
-### Specific Features and Data Handling
+MSQBOT provides the following commands:
 
-SOUN Bot has two main systems of commands:
+1. **User Commands:**
+   - `/اصنع-فورم` - Create a form.
+   - `/لعبة-الايموجي` - Emoji game with other users.
+   - `/الاقتراحات` - Submit suggestions to improve the server.
+   - `/قيف-اواي` - Organize giveaways.
 
-1. **SOUN GPT:**
-   - This system functions like ChatGPT but on Discord.
-   - It reads the user's last 15 messages for context but does not save these messages in a database.
+❌ **These commands do not store user data or personal information.**
 
-2. **Other Commands:**
-   - `/settings-art` - Setting the system
-   - `/kiss <user>` - Kiss another user
-   - `/hug <user>` - Hug another user
-   - `/punch <user>` - Punch another user
-   - `/kick <user>` - Kick another user
-   - `/meme` - Gets a meme from a random Reddit meme post using meme-api.com/gimme API.
+## Permissions Required by MSQBOT
 
-These commands do not save user data or any other information.
+MSQBOT does **not** request administrator permissions. The only required permissions are:
 
-### Admin Permission
+- Send Messages
+- Read Message History
+- Embed Links
+- Attach Files
+- Use External Emojis
 
-SOUN does not requests any admin permission.
+## Commitment to Privacy
 
-### ONLY PERMISSIONS SOUN NEEDS:
-
-Send Messages
-Read MEssages History
-Embed Links
-Attach Files
-Use External Emojis
-
-### Commitment to Privacy
-
-We care about users' privacy and strive to protect your data. The information collected is solely for the purpose of enhancing your experience with the bot and ensuring its proper functioning.
+We are committed to protecting user privacy. The collected data is only used to improve the user experience and ensure the bot's functionality.
 
 ---
 
-By using SOUN Bot, you agree to this Privacy Policy. If you have any questions or concerns, please contact us for further clarification.
+# Terms of Service for MSQBOT
+
+1. By using MSQBOT, you agree to our Privacy Policy.
+2. The bot **must not** be used for illegal activities or violations of Discord's policies.
+3. We are **not responsible** for any harm caused by misuse of the bot.
+4. We reserve the right to update this policy at any time to improve the service.
+
+For any inquiries or concerns, please contact us for further information.
 
 ---
+
+🚀 **By using MSQBOT, you agree to our Privacy Policy and Terms of Service. If you have any questions, feel free to contact us.**
